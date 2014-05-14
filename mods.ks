@@ -5,6 +5,8 @@ openssh-askpass
 openssh-clients
 openssh-server
 @development-tools
+#required for Nvidia drivers
+kernel-devel
 
 #fluka specific
 libquadmath-devel
