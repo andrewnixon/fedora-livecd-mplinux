@@ -35,5 +35,25 @@ expat-devel
 
 #EGS + BEAM
 tk
-
+qt
+qt-settings
+fontconfig-devel
+freetype-devel
+lcms-libs
+libICE-devel
+libSM-devel
+libXcursor-devel
+libXft-devel
+libXi-devel
+libXinerama-devel
+libXrandr-devel
+libXrender-devel
+libXt-devel
+libXv-devel
+libmng
+mesa-libGLU
+mesa-libGLU-devel
+qt-x11
+zlib-devel 
+qt-devel
 %end
