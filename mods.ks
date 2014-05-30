@@ -32,6 +32,7 @@ mesa-libGL-devel
 libstdc++-devel
 gcc-c++
 expat-devel
+libXmu-devel
 
 #EGS + BEAM
 tk
